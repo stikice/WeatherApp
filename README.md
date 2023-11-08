@@ -1,5 +1,5 @@
 # WeatherApp
 
-Adlet Zhaimukhamedov
-Тестовое задание Mobile (Kotlin)
+Adlet Zhaimukhamedov\
+Тестовое задание Mobile (Kotlin)\
 Приложение для просмотра погоды
