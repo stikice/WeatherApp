@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Search</string>
+    <string name="icon_description">Icon</string>
+    <string name="welcome_city">Welcome to %s!</string>
+    <string name="weather_in_your_pocket">Weather in your pocket</string>
+    <string name="write_your_city_here">Write your city here</string>
+    <string name="error_city_is_empty">You have not chosen a city :(</string>
+    <string name="error_city_not_found">City not found 4:(4</string>
+    <string name="min_max_temperature">H:%d° L:%d°</string>
+    <string name="temperature" translatable="false">%d°</string>
+    <string name="today">TODAY</string>
+    <string name="next_days">NEXT DAYS</string>
+    <string name="now">Now</string>
+    <string name="delete">Delete</string>
+</resources>

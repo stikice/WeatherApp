@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Іздеу</string>
+    <string name="icon_description">Белгіше</string>
+    <string name="welcome_city">%s қош келдіңіз!</string>
+    <string name="weather_in_your_pocket">Қалтаңыздағы ауа-райы</string>
+    <string name="write_your_city_here">Мұнда өз қалаңызды жазыңыз</string>
+    <string name="error_city_is_empty">Сіз қала таңдаған жоқсыз :(</string>
+    <string name="error_city_not_found">Қала табылмады 4:(4</string>
+    <string name="min_max_temperature">Ж:%d° Т:%d°</string>
+    <string name="today">БҮГІН</string>
+    <string name="next_days">КЕЛЕСІ КҮНДЕР</string>
+    <string name="now">Қазір</string>
+    <string name="delete">Жою</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Поиск</string>
+    <string name="icon_description">Иконка</string>
+    <string name="welcome_city">Добро пожаловать в %s!</string>
+    <string name="weather_in_your_pocket">Погода в вашем кармане</string>
+    <string name="write_your_city_here">Напишите здесь свой город</string>
+    <string name="error_city_is_empty">Вы не выбрали город :(</string>
+    <string name="error_city_not_found">Город не найден 4:(4</string>
+    <string name="min_max_temperature">Мин:%d° Макс:%d°</string>
+    <string name="today">СЕГОДНЯ</string>
+    <string name="next_days">СЛЕДУЮЩИЕ ДНИ</string>
+    <string name="now">Сейчас</string>
+    <string name="delete">Удалить</string>
+</resources>
